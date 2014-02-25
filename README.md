@@ -2,20 +2,7 @@
 
 Popexpert's hubot is a very special hubot, filled with puggy goodness and a very kind heart.
 
-To access hubot (should he need a checkup) you can login to heroku with the following credentials:
-
-Username: colby+hubot@popexpert.com  
-password: pophubot1020  
-
 Currently, hubot lives at popexpert-hubot.herokuapp.com. It's a nice little corner of the web, he likes it here.
-
-Should you need to find a new home for hubot, he'll need a couple of housewarming presents:
-
-HUBOT_CAMPFIRE_ACCOUNT="popexpert"  
-HUBOT_CAMPFIRE_ROOMS="540358"  
-HUBOT_CAMPFIRE_TOKEN="2de90b63903770e825e30bb8fcae46a3ce13b981"  
-
-Should that token not work, you might have to set up a new account for him on campfire.
 
 
 
